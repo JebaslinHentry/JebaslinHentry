@@ -17,9 +17,9 @@ Driven by a strong learning philosophy, I believe in consistent growth, practica
 ## 🛠️ Tech Stack
 
 - **Languages**: Python (primary), C/C++, JavaScript, HTML/CSS  
-- **Frameworks & Tools**: Flask (learning), Django (next), Git, VS Code, MySQL  
+- **Frameworks & Tools**: Flask (learning), Django (next), Git, VS Code, MySQL, MongoDB  
 - **Areas of Interest**: Full Stack Web Development, Automation, AI & ML (future plans)  
-- **Currently Learning**: REST APIs, Flask, Frontend Libraries  
+- **Currently Learning**: REST APIs, Flask, Frontend Libraries
 
 ---
 
